@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="please try again in 15 minutes." />
+      <item value="detecting and recording URL" />
+      <item value="Double cannot be cast to java.lang.Integer" />
+      <item value="Method fun1 should have no parameters" />
+      <item value="月" />
+      <item value="wrong number of arguments" />
+      <item value="argument type mismatch" />
+      <item value="IllegalArgumentException: object is not an instance of declaring class" />
+      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'key ='demo'' at line 3" />
+      <item value="syncall" />
+      <item value="权限校验" />
+      <item value="权限" />
+      <item value="Invalid bound statement (not found):" />
+      <item value="The driver has not received any packets from the server. " />
+      <item value="ignoring input and appending output to" />
+      <item value="nohup: ignoring input and appending output to ‘nohup.out’" />
+      <item value="Error occurred during initialization of VM " />
+      <item value="account." />
+      <item value="account.admin" />
+      <item value=" Permission denied" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near" />
+      <item value="分类" />
+      <item value="下拉框" />
+      <item value="下拉" />
+      <item value="reason" />
+      <item value="原因" />
+      <item value="market" />
+      <item value="上市时间" />
+      <item value="Could not autowire.No beans of &quot;XXX&quot; type found" />
+      <item value="The used SELECT statements have a different number of columns" />
+      <item value=" Every derived table must have its own alias" />
+      <item value="Every derived table must have its own alias" />
+      <item value="Status" />
+      <item value="Invalid use of group function" />
+      <item value="nohup: ignoring input and appending output to ‘nohup.out’ " />
+      <item value="1130-Host 61.158.149.79 is not allowed to connect to this mysql server" />
+      <item value="group 'mysql' already exists " />
+      <item value="Starting MySQL.. ERROR! The server quit without updating PID file (/usr/local/mysql/data/vultr.guest.pid). " />
+      <item value=" Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) " />
+      <item value="create a desktop shortcut" />
+      <item value="Permission" />
+      <item value="- Thread starvation or clock leap detected (housekeeper delta=46s72ms199µs951ns" />
+      <item value="Manual" />
+      <item value="Error response from daemon: conflict: unable to delete 2151acc12881 (must be forced) - image is being used by stopped container 19e8a7aea4ed " />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'update user set host = '%' where user = 'root'' at line 3 " />
+      <item value="Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) " />
+      <item value="CommunicationsException: Communications link failure " />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server. " />
+      <item value="Complete!" />
+      <item value=" You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' batchno" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="LATIN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="tempFilePath" value="C:\Users\asus\AppData\Local\Temp\libhello.dll9381822640428380200" />
+        <option name="valid" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>
