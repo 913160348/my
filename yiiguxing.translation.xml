@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
       <item value="注册" />
       <item value="Field nService in com.example.demo.controller.test required a bean of type 'com.example.demo.service.NService' that could not be found." />
       <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consume" />
@@ -50,11 +51,10 @@
       <item value=" Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) " />
       <item value="create a desktop shortcut" />
       <item value="Permission" />
-      <item value="- Thread starvation or clock leap detected (housekeeper delta=46s72ms199µs951ns" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
+        <entry key="CHINESE" value="23" />
         <entry key="ENGLISH" value="23" />
         <entry key="LATIN" value="1" />
       </map>
