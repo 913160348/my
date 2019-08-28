@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公司" />
+      <item value="Insurance" />
+      <item value="Insurancename" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
       <item value="注册" />
       <item value="Field nService in com.example.demo.controller.test required a bean of type 'com.example.demo.service.NService' that could not be found." />
@@ -48,14 +51,11 @@
       <item value="1130-Host 61.158.149.79 is not allowed to connect to this mysql server" />
       <item value="group 'mysql' already exists " />
       <item value="Starting MySQL.. ERROR! The server quit without updating PID file (/usr/local/mysql/data/vultr.guest.pid). " />
-      <item value=" Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) " />
-      <item value="create a desktop shortcut" />
-      <item value="Permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
