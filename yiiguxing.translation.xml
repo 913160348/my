@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="issues" />
+      <item value="fork" />
       <item value="Affected" />
       <item value="Column 'baseid' in where clause is ambiguous" />
       <item value="公司" />
@@ -49,8 +51,6 @@
       <item value="Every derived table must have its own alias" />
       <item value="Status" />
       <item value="Invalid use of group function" />
-      <item value="nohup: ignoring input and appending output to ‘nohup.out’ " />
-      <item value="1130-Host 61.158.149.79 is not allowed to connect to this mysql server" />
     </histories>
     <option name="languageScores">
       <map>
