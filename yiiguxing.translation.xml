@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can't specify target table 'person' for update in FROM clause" />
       <item value="what is your problem" />
       <item value="which is not functionally dependent on columns in GROUP BY clause" />
       <item value="Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column" />
@@ -50,7 +51,6 @@
       <item value="market" />
       <item value="上市时间" />
       <item value="Could not autowire.No beans of &quot;XXX&quot; type found" />
-      <item value="The used SELECT statements have a different number of columns" />
     </histories>
     <option name="languageScores">
       <map>
