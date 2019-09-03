@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="which is not functionally dependent on columns in GROUP BY clause" />
+      <item value="Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column" />
+      <item value="Operand should contain 2 column(s)" />
       <item value="issues" />
       <item value="fork" />
       <item value="Affected" />
@@ -48,9 +51,6 @@
       <item value="Could not autowire.No beans of &quot;XXX&quot; type found" />
       <item value="The used SELECT statements have a different number of columns" />
       <item value=" Every derived table must have its own alias" />
-      <item value="Every derived table must have its own alias" />
-      <item value="Status" />
-      <item value="Invalid use of group function" />
     </histories>
     <option name="languageScores">
       <map>
