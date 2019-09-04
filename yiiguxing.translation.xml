@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刷新" />
       <item value="You can't specify target table 'person' for update in FROM clause" />
       <item value="what is your problem" />
       <item value="which is not functionally dependent on columns in GROUP BY clause" />
@@ -50,12 +51,11 @@
       <item value="原因" />
       <item value="market" />
       <item value="上市时间" />
-      <item value="Could not autowire.No beans of &quot;XXX&quot; type found" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
