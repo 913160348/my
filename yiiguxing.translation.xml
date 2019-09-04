@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration." />
       <item value="UnsatisfiedDependencyException: Error creating bean with name 'abdSysGwController': Unsatisfied dependency expressed through method 'setService' parameter 0;" />
       <item value="刷新" />
       <item value="You can't specify target table 'person' for update in FROM clause" />
@@ -50,7 +51,6 @@
       <item value="下拉" />
       <item value="reason" />
       <item value="原因" />
-      <item value="market" />
     </histories>
     <option name="languageScores">
       <map>
