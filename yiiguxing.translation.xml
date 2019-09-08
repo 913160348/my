@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constants" />
       <item value="Unauthorized" />
       <item value="FAIL" />
       <item value="Affected rows" />
@@ -50,7 +51,6 @@
       <item value="account." />
       <item value="account.admin" />
       <item value=" Permission denied" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near" />
     </histories>
     <option name="languageScores">
       <map>
