@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign" />
+      <item value="signa" />
+      <item value="signaten" />
+      <item value="signature" />
+      <item value="签名" />
       <item value="core" />
       <item value="select By Id" />
       <item value="批量" />
@@ -46,16 +51,11 @@
       <item value="syncall" />
       <item value="权限校验" />
       <item value="权限" />
-      <item value="Invalid bound statement (not found):" />
-      <item value="The driver has not received any packets from the server. " />
-      <item value="ignoring input and appending output to" />
-      <item value="nohup: ignoring input and appending output to ‘nohup.out’" />
-      <item value="Error occurred during initialization of VM " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="29" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
