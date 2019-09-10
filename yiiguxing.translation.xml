@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Details" />
       <item value="case" />
       <item value="Ignore" />
       <item value="IgnoreCase" />
@@ -50,7 +51,6 @@
       <item value="protected" />
       <item value="please try again in 15 minutes." />
       <item value="detecting and recording URL" />
-      <item value="Double cannot be cast to java.lang.Integer" />
     </histories>
     <option name="languageScores">
       <map>
