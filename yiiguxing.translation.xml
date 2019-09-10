@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签名" />
       <item value="sign" />
       <item value="signa" />
       <item value="signaten" />
       <item value="signature" />
-      <item value="签名" />
       <item value="core" />
       <item value="select By Id" />
       <item value="批量" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
