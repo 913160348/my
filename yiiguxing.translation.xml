@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="annotation" />
+      <item value="Multi" />
       <item value="registered" />
       <item value="注册" />
       <item value="Access Denied" />
@@ -49,8 +51,6 @@
       <item value="Action" />
       <item value="Field express in com.abdms.controller.test required a single bean, but 2 were found:" />
       <item value="Description" />
-      <item value="APPLICATION FAILED TO START" />
-      <item value="protected" />
     </histories>
     <option name="languageScores">
       <map>
