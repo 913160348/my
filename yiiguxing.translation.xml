@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="password" />
       <item value="auth" />
       <item value="Internal Server Error" />
       <item value="未登录" />
@@ -50,7 +51,6 @@
       <item value="Insurance" />
       <item value="Insurancename" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
-      <item value="Field nService in com.example.demo.controller.test required a bean of type 'com.example.demo.service.NService' that could not be found." />
     </histories>
     <option name="languageScores">
       <map>
