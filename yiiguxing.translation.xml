@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auth" />
       <item value="Internal Server Error" />
       <item value="未登录" />
       <item value="UNREGISTERED" />
@@ -50,7 +51,6 @@
       <item value="Insurancename" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
       <item value="Field nService in com.example.demo.controller.test required a bean of type 'com.example.demo.service.NService' that could not be found." />
-      <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consume" />
     </histories>
     <option name="languageScores">
       <map>
