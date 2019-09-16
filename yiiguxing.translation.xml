@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Unable to connect to" />
       <item value="password" />
       <item value="auth" />
       <item value="Internal Server Error" />
@@ -50,7 +51,6 @@
       <item value="公司" />
       <item value="Insurance" />
       <item value="Insurancename" />
-      <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
     </histories>
     <option name="languageScores">
       <map>
