@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过期" />
+      <item value="expire" />
+      <item value="expiredTime" />
+      <item value="expireTime" />
+      <item value="expireDate" />
       <item value="MILLISECOND" />
       <item value="SECOND" />
       <item value="expiration" />
-      <item value="过期" />
       <item value="refresh" />
       <item value="required" />
       <item value="No mapping for GET" />
@@ -47,15 +51,11 @@
       <item value="No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration." />
       <item value="UnsatisfiedDependencyException: Error creating bean with name 'abdSysGwController': Unsatisfied dependency expressed through method 'setService' parameter 0;" />
       <item value="刷新" />
-      <item value="You can't specify target table 'person' for update in FROM clause" />
-      <item value="what is your problem" />
-      <item value="which is not functionally dependent on columns in GROUP BY clause" />
-      <item value="Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
