@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MILLISECOND" />
+      <item value="SECOND" />
+      <item value="expiration" />
+      <item value="过期" />
+      <item value="refresh" />
       <item value="required" />
       <item value="No mapping for GET" />
       <item value="Deprecated" />
@@ -46,16 +51,11 @@
       <item value="what is your problem" />
       <item value="which is not functionally dependent on columns in GROUP BY clause" />
       <item value="Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column" />
-      <item value="Operand should contain 2 column(s)" />
-      <item value="issues" />
-      <item value="fork" />
-      <item value="Affected" />
-      <item value="Column 'baseid' in where clause is ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
