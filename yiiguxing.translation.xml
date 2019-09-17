@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No mapping for GET" />
       <item value="Deprecated" />
       <item value=" Unable to connect to" />
       <item value="password" />
@@ -50,7 +51,6 @@
       <item value="Affected" />
       <item value="Column 'baseid' in where clause is ambiguous" />
       <item value="公司" />
-      <item value="Insurance" />
     </histories>
     <option name="languageScores">
       <map>
