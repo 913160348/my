@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually:" />
       <item value="过期" />
       <item value="expire" />
       <item value="expiredTime" />
@@ -50,11 +51,10 @@
       <item value=" Error creating bean with name 'baseController': Unsatisfied dependency expressed through method 'setService' parameter 0; " />
       <item value="No MyBatis mapper was found in '[com.example.demo]' package. Please check your configuration." />
       <item value="UnsatisfiedDependencyException: Error creating bean with name 'abdSysGwController': Unsatisfied dependency expressed through method 'setService' parameter 0;" />
-      <item value="刷新" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="35" />
         <entry key="ENGLISH" value="35" />
         <entry key="LATIN" value="1" />
       </map>
