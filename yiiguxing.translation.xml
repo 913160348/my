@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="睡" />
       <item value="user dose not have resource to register long term short url" />
       <item value="Permission" />
       <item value="权限" />
@@ -50,12 +51,11 @@
       <item value="select By Id" />
       <item value="批量" />
       <item value="Constants" />
-      <item value="Unauthorized" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
