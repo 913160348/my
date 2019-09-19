@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Exception encountered during context initializatio" />
       <item value="睡" />
       <item value="user dose not have resource to register long term short url" />
       <item value="Permission" />
@@ -50,11 +51,10 @@
       <item value="core" />
       <item value="select By Id" />
       <item value="批量" />
-      <item value="Constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="38" />
         <entry key="LATIN" value="1" />
       </map>
