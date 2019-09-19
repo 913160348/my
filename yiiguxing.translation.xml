@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Protocol handler start failed" />
       <item value="id&#9;int&#9;Unchecked eopenid&#9;varchar(50)&#9;Unchecked empno&#9;varchar(50)&#9;Unchecked ename&#9;varchar(50)&#9;Unchecked ebranch&#9;varchar(50)&#9;Checked openid&#9;varchar(50)&#9;Unchecked name&#9;varchar(50)&#9;Unchecked mobile&#9;varchar(50)&#9;Unchecked intime&#9;varchar(50)&#9;Unchecked &#9;&#9;Unchecked" />
       <item value=" Exception encountered during context initializatio" />
       <item value="睡" />
@@ -50,7 +51,6 @@
       <item value="signaten" />
       <item value="signature" />
       <item value="core" />
-      <item value="select By Id" />
     </histories>
     <option name="languageScores">
       <map>
