@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HttpMediaTypeNotAcceptableException: Could not find acceptable representation]" />
       <item value="must be 16 bytes long" />
       <item value="Access is denied" />
       <item value="Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat" />
@@ -50,7 +51,6 @@
       <item value="Validity" />
       <item value="Validity period" />
       <item value="有效期" />
-      <item value="encrypt" />
     </histories>
     <option name="languageScores">
       <map>
