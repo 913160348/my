@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relaxedQueryChars" />
       <item value="closed" />
       <item value="purview" />
       <item value="权限" />
@@ -50,7 +51,6 @@
       <item value="annotation" />
       <item value="Multi" />
       <item value="registered" />
-      <item value="注册" />
     </histories>
     <option name="languageScores">
       <map>
