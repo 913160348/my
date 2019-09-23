@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="purview" />
+      <item value="权限" />
       <item value="INPUT" />
       <item value="AUTO" />
       <item value="NONE" />
@@ -22,7 +24,6 @@
       <item value="睡" />
       <item value="user dose not have resource to register long term short url" />
       <item value="Permission" />
-      <item value="权限" />
       <item value="info" />
       <item value="信息" />
       <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
@@ -50,12 +51,11 @@
       <item value="registered" />
       <item value="注册" />
       <item value="Access Denied" />
-      <item value="Details" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="40" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
