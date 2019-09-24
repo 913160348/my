@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
+      <item value="SQLTransientConnectionException" />
       <item value="relaxedQueryChars" />
       <item value="closed" />
       <item value="purview" />
@@ -49,8 +51,6 @@
       <item value="未登录" />
       <item value="UNREGISTERED" />
       <item value="annotation" />
-      <item value="Multi" />
-      <item value="registered" />
     </histories>
     <option name="languageScores">
       <map>
