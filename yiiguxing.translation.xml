@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
       <item value="Input length must be multiple of 16 when decrypting with padded cipher" />
       <item value="supported" />
       <item value="autoType is not support" />
@@ -50,12 +51,11 @@
       <item value="No mapping for GET" />
       <item value="Deprecated" />
       <item value=" Unable to connect to" />
-      <item value="password" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
