@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BindingException" />
+      <item value=" Invalid bound statement (not found)" />
       <item value=" Finished with errors" />
       <item value="SUPER" />
       <item value="manager" />
@@ -49,8 +51,6 @@
       <item value="expireDate" />
       <item value="MILLISECOND" />
       <item value="SECOND" />
-      <item value="expiration" />
-      <item value="refresh" />
     </histories>
     <option name="languageScores">
       <map>
