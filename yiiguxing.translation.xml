@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communications link failure" />
       <item value=" No visible constructors in class " />
       <item value="suffix" />
       <item value="required param abtComModelsManage is not present" />
@@ -17,7 +18,6 @@
       <item value="autoType is not support" />
       <item value=": autoType is not support." />
       <item value=" required param page is not present" />
-      <item value="Communications link failure" />
       <item value="SQLTransientConnectionException" />
       <item value="relaxedQueryChars" />
       <item value="closed" />
