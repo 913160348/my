@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl" />
       <item value="Communications link failure" />
       <item value=" No visible constructors in class " />
       <item value="suffix" />
@@ -50,7 +51,6 @@
       <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually:" />
       <item value="过期" />
       <item value="expire" />
-      <item value="expiredTime" />
     </histories>
     <option name="languageScores">
       <map>
