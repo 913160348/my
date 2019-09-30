@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digit" />
+      <item value="letter" />
+      <item value="LetterDigit" />
+      <item value="朋友" />
+      <item value="找" />
+      <item value="just" />
       <item value="not supported" />
       <item value="Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl" />
       <item value="Communications link failure" />
@@ -45,17 +51,11 @@
       <item value=" Exception encountered during context initializatio" />
       <item value="睡" />
       <item value="user dose not have resource to register long term short url" />
-      <item value="Permission" />
-      <item value="info" />
-      <item value="信息" />
-      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
-      <item value="Unable to infer base url. This is common when using dynamic servlet registration or when the API is behind an API Gateway. The base url is the root of where all the swagger resources are served. For e.g. if the api is available at http://example.org/api/v2/api-docs then the base url is http://example.org/api/. Please enter the location manually:" />
-      <item value="过期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
