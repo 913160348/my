@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="license" />
       <item value="管理" />
       <item value="Bean name must not be empty" />
       <item value="失败" />
@@ -50,11 +51,10 @@
       <item value="Access is denied" />
       <item value="Unable to start web server; nested exception is org.springframework.boot.web.server.WebServerException: Unable to start embedded Tomcat" />
       <item value=" Unsatisfied dependency expressed through method 's" />
-      <item value="No converter found for return value of type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="44" />
         <entry key="LATIN" value="1" />
       </map>
