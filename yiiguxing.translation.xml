@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean name must not be empty" />
       <item value="失败" />
       <item value="locally deleted files" />
       <item value="recursively" />
@@ -50,11 +51,10 @@
       <item value=" Unsatisfied dependency expressed through method 's" />
       <item value="No converter found for return value of type" />
       <item value="Request method 'POST' not supported]" />
-      <item value="Connection timed out: no further information. Verify the connection properties. Make sure that an instance of SQL Server is running on the host and accepting TCP/IP conn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="43" />
         <entry key="LATIN" value="1" />
       </map>
