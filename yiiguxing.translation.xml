@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="同步" />
       <item value="Classification" />
+      <item value="同步" />
       <item value="分类" />
       <item value="素材" />
       <item value="Data truncation: Data too long for column 'qempno' at row 1" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="46" />
         <entry key="LATIN" value="1" />
       </map>
