@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="channel" />
+      <item value="Architecture" />
+      <item value="架构" />
+      <item value="组织" />
+      <item value="function" />
+      <item value="Features" />
+      <item value="功能" />
+      <item value="渠道" />
+      <item value="公司" />
+      <item value="insurance" />
       <item value="前缀" />
       <item value="clean" />
       <item value="dynamic" />
@@ -41,21 +51,11 @@
       <item value="操作" />
       <item value="Input length must be multiple of 16 when decrypting with padded cipher" />
       <item value="supported" />
-      <item value="autoType is not support" />
-      <item value=": autoType is not support." />
-      <item value=" required param page is not present" />
-      <item value="SQLTransientConnectionException" />
-      <item value="relaxedQueryChars" />
-      <item value="closed" />
-      <item value="purview" />
-      <item value="权限" />
-      <item value="INPUT" />
-      <item value="AUTO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
