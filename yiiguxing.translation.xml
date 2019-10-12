@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Letter" />
+      <item value="Digit" />
       <item value="类型" />
       <item value="公共" />
       <item value="channel" />
@@ -30,7 +32,6 @@
       <item value="locally deleted files" />
       <item value="recursively" />
       <item value="The used SELECT statements have a different number of columns" />
-      <item value="Letter" />
       <item value="digit" />
       <item value="letter" />
       <item value="LetterDigit" />
@@ -50,11 +51,10 @@
       <item value="SUPER" />
       <item value="manager" />
       <item value="管理员" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
+        <entry key="CHINESE" value="51" />
         <entry key="ENGLISH" value="51" />
         <entry key="LATIN" value="1" />
       </map>
