@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="folder" />
+      <item value="文件夹" />
       <item value="Letter" />
       <item value="Digit" />
       <item value="类型" />
@@ -49,13 +51,11 @@
       <item value=" Invalid bound statement (not found)" />
       <item value=" Finished with errors" />
       <item value="SUPER" />
-      <item value="manager" />
-      <item value="管理员" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="52" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
