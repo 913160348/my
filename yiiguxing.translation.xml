@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用户" />
       <item value="灰色" />
       <item value="紫色" />
       <item value="folder" />
@@ -50,7 +51,6 @@
       <item value="required param abtComModelsManage is not present" />
       <item value=" The request was rejected because the URL was not normalized." />
       <item value="BindingException" />
-      <item value=" Invalid bound statement (not found)" />
     </histories>
     <option name="languageScores">
       <map>
