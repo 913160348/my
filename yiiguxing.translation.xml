@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="素材" />
       <item value="用户" />
       <item value="灰色" />
       <item value="紫色" />
@@ -26,7 +27,6 @@
       <item value="Classification" />
       <item value="同步" />
       <item value="分类" />
-      <item value="素材" />
       <item value="Data truncation: Data too long for column 'qempno' at row 1" />
       <item value="Permission denied" />
       <item value="tmpt" />
