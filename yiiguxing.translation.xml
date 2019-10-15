@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled" />
       <item value="素材" />
+      <item value="This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled" />
       <item value="用户" />
       <item value="灰色" />
       <item value="紫色" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
