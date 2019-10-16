@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="label" />
       <item value="素材" />
       <item value="This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled" />
       <item value="用户" />
@@ -50,11 +51,10 @@
       <item value=" No visible constructors in class " />
       <item value="suffix" />
       <item value="required param abtComModelsManage is not present" />
-      <item value=" The request was rejected because the URL was not normalized." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
+        <entry key="CHINESE" value="54" />
         <entry key="ENGLISH" value="54" />
         <entry key="LATIN" value="1" />
       </map>
