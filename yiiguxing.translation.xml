@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pic" />
       <item value="前缀" />
       <item value="admin" />
       <item value="管理员" />
@@ -50,11 +51,10 @@
       <item value="digit" />
       <item value="letter" />
       <item value="LetterDigit" />
-      <item value="朋友" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
         <entry key="LATIN" value="1" />
       </map>
