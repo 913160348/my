@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="noinspection AliDeprecation" />
       <item value="Every derived table must have its own alias" />
       <item value="synchronizeTagType" />
       <item value="同步" />
@@ -50,7 +51,6 @@
       <item value="朋友" />
       <item value="找" />
       <item value="just" />
-      <item value="not supported" />
     </histories>
     <option name="languageScores">
       <map>
