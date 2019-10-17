@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="admin" />
+      <item value="管理员" />
       <item value="noinspection AliDeprecation" />
       <item value="Every derived table must have its own alias" />
       <item value="synchronizeTagType" />
@@ -49,13 +51,11 @@
       <item value="letter" />
       <item value="LetterDigit" />
       <item value="朋友" />
-      <item value="找" />
-      <item value="just" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="57" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
