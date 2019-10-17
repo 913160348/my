@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="admin" />
       <item value="管理员" />
       <item value="noinspection AliDeprecation" />
@@ -33,7 +34,6 @@
       <item value="渠道" />
       <item value="公司" />
       <item value="insurance" />
-      <item value="前缀" />
       <item value="clean" />
       <item value="dynamic" />
       <item value="Classification" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
