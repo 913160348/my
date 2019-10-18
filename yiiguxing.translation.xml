@@ -1,18 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
+      <item value="同步" />
       <item value="charsetname" />
       <item value="nested exception is org.apache.ibatis.exceptions.PersistenceException: " />
       <item value=" The expression 'abtKjLibw.tagcodeList' evaluated to a null value." />
       <item value="DatebookHikari - idleTimeout is close to or more than maxLifetime, disabling it." />
       <item value="pic" />
-      <item value="前缀" />
       <item value="admin" />
       <item value="管理员" />
       <item value="noinspection AliDeprecation" />
       <item value="Every derived table must have its own alias" />
       <item value="synchronizeTagType" />
-      <item value="同步" />
       <item value=" Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for" />
       <item value="分类" />
       <item value="标签" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
