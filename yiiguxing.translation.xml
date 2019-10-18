@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" The expression 'abtKjLibw.tagcodeList' evaluated to a null value." />
       <item value="DatebookHikari - idleTimeout is close to or more than maxLifetime, disabling it." />
       <item value="pic" />
       <item value="前缀" />
@@ -50,7 +51,6 @@
       <item value="recursively" />
       <item value="The used SELECT statements have a different number of columns" />
       <item value="digit" />
-      <item value="letter" />
     </histories>
     <option name="languageScores">
       <map>
