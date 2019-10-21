@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="synchronizeTagType" />
       <item value="Connection refused " />
       <item value="二" />
       <item value="前缀" />
@@ -14,7 +15,6 @@
       <item value="管理员" />
       <item value="noinspection AliDeprecation" />
       <item value="Every derived table must have its own alias" />
-      <item value="synchronizeTagType" />
       <item value=" Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for" />
       <item value="分类" />
       <item value="标签" />
