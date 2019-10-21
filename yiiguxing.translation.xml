@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二" />
       <item value="前缀" />
       <item value="同步" />
       <item value="charsetname" />
@@ -50,7 +51,6 @@
       <item value="Bean name must not be empty" />
       <item value="失败" />
       <item value="locally deleted files" />
-      <item value="recursively" />
     </histories>
     <option name="languageScores">
       <map>
