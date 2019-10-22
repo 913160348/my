@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trying to infer dataType org.springframework.web.multipart.MultipartFile[]" />
       <item value=" because it is a JDK dynamic proxy that implements" />
       <item value="start" />
       <item value="synchronizeTagType" />
@@ -50,7 +51,6 @@
       <item value="Permission denied" />
       <item value="tmpt" />
       <item value="license" />
-      <item value="管理" />
     </histories>
     <option name="languageScores">
       <map>
