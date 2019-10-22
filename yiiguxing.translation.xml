@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="start" />
       <item value="synchronizeTagType" />
       <item value="Connection refused " />
       <item value="二" />
@@ -50,7 +51,6 @@
       <item value="license" />
       <item value="管理" />
       <item value="Bean name must not be empty" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
