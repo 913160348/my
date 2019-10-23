@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="open" />
+      <item value="公开" />
+      <item value="公共" />
       <item value="Trying to infer dataType org.springframework.web.multipart.MultipartFile[]" />
       <item value=" because it is a JDK dynamic proxy that implements" />
       <item value="start" />
@@ -33,7 +36,6 @@
       <item value="Letter" />
       <item value="Digit" />
       <item value="类型" />
-      <item value="公共" />
       <item value="channel" />
       <item value="Architecture" />
       <item value="架构" />
@@ -49,13 +51,11 @@
       <item value="Classification" />
       <item value="Data truncation: Data too long for column 'qempno' at row 1" />
       <item value="Permission denied" />
-      <item value="tmpt" />
-      <item value="license" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="60" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
