@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公共" />
       <item value="open" />
       <item value="公开" />
-      <item value="公共" />
       <item value="Trying to infer dataType org.springframework.web.multipart.MultipartFile[]" />
       <item value=" because it is a JDK dynamic proxy that implements" />
       <item value="start" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
