@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DataSource" />
       <item value="公共" />
       <item value="open" />
       <item value="公开" />
@@ -50,11 +51,10 @@
       <item value="dynamic" />
       <item value="Classification" />
       <item value="Data truncation: Data too long for column 'qempno' at row 1" />
-      <item value="Permission denied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="61" />
         <entry key="ENGLISH" value="61" />
         <entry key="LATIN" value="1" />
       </map>
