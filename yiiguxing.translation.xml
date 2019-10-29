@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" idleTimeout is close to or more than maxLifetime, disabling it." />
       <item value="Statement" />
       <item value="Callable" />
       <item value="Proxy" />
@@ -50,7 +51,6 @@
       <item value="组织" />
       <item value="function" />
       <item value="Features" />
-      <item value="功能" />
     </histories>
     <option name="languageScores">
       <map>
