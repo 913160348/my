@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Too many connections" />
       <item value="地址" />
       <item value="nvalid bound statement (not found):" />
       <item value=" idleTimeout is close to or more than maxLifetime, disabling it." />
@@ -50,11 +51,10 @@
       <item value="channel" />
       <item value="Architecture" />
       <item value="架构" />
-      <item value="组织" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="LATIN" value="1" />
       </map>
