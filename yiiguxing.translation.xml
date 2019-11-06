@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="二维码" />
       <item value="照片" />
       <item value="record" />
       <item value="行为记录" />
@@ -50,7 +51,6 @@
       <item value="紫色" />
       <item value="folder" />
       <item value="文件夹" />
-      <item value="Letter" />
     </histories>
     <option name="languageScores">
       <map>
