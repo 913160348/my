@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="批量" />
       <item value="导入" />
       <item value="parse" />
       <item value="bach" />
@@ -50,7 +51,6 @@
       <item value="素材" />
       <item value="This function has none of DETERMINISTIC, NO SQL, or READS SQL DATA in its declaration and binary logging is enabled" />
       <item value="用户" />
-      <item value="灰色" />
     </histories>
     <option name="languageScores">
       <map>
