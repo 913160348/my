@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转发" />
       <item value="becomeMy" />
       <item value="变成" />
       <item value="批量" />
@@ -50,12 +51,11 @@
       <item value="标签" />
       <item value="delete" />
       <item value="label" />
-      <item value="素材" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
