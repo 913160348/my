@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="phone" />
       <item value="生成图片" />
       <item value="使用" />
       <item value="昵称" />
@@ -50,11 +51,10 @@
       <item value="pic" />
       <item value="admin" />
       <item value="管理员" />
-      <item value="noinspection AliDeprecation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="69" />
         <entry key="ENGLISH" value="69" />
         <entry key="LATIN" value="1" />
       </map>
