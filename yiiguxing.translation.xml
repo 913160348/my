@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用" />
+      <item value="昵称" />
       <item value="Become" />
       <item value="变成我的" />
       <item value="devil" />
@@ -49,13 +51,11 @@
       <item value="管理员" />
       <item value="noinspection AliDeprecation" />
       <item value="Every derived table must have its own alias" />
-      <item value=" Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
