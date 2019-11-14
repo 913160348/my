@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reshape" />
+      <item value="shape" />
+      <item value="改变形状" />
+      <item value="改变" />
+      <item value="图片" />
+      <item value="调整大小" />
+      <item value="resize" />
       <item value="温度" />
       <item value="气温" />
       <item value="日期" />
@@ -44,18 +51,11 @@
       <item value="公共" />
       <item value="open" />
       <item value="公开" />
-      <item value="Trying to infer dataType org.springframework.web.multipart.MultipartFile[]" />
-      <item value=" because it is a JDK dynamic proxy that implements" />
-      <item value="start" />
-      <item value="synchronizeTagType" />
-      <item value="Connection refused " />
-      <item value="二" />
-      <item value="前缀" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="72" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
