@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contact" />
+      <item value="联系人" />
+      <item value="地点" />
+      <item value="活动" />
+      <item value="cread" />
       <item value="DARK_GRAY" />
       <item value="reshape" />
       <item value="shape" />
@@ -46,16 +51,11 @@
       <item value="Proxy" />
       <item value="ProxyCallableStatement" />
       <item value="channels" />
-      <item value="渠道" />
-      <item value="性别" />
-      <item value="DataSource" />
-      <item value="公共" />
-      <item value="open" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="73" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
