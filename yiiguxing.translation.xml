@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="名片" />
       <item value="音频" />
       <item value="引拼" />
       <item value="people" />
@@ -50,7 +51,6 @@
       <item value="nvalid bound statement (not found):" />
       <item value=" idleTimeout is close to or more than maxLifetime, disabling it." />
       <item value="Statement" />
-      <item value="Callable" />
     </histories>
     <option name="languageScores">
       <map>
