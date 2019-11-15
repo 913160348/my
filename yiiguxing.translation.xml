@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="音频" />
+      <item value="引拼" />
       <item value="people" />
       <item value="Contact" />
       <item value="联系人" />
@@ -49,13 +51,11 @@
       <item value=" idleTimeout is close to or more than maxLifetime, disabling it." />
       <item value="Statement" />
       <item value="Callable" />
-      <item value="Proxy" />
-      <item value="ProxyCallableStatement" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
