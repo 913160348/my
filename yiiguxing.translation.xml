@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="照片" />
       <item value="二维码" />
       <item value="名片" />
       <item value="音频" />
@@ -41,7 +42,6 @@
       <item value="导入" />
       <item value="parse" />
       <item value="bach" />
-      <item value="照片" />
       <item value="record" />
       <item value="行为记录" />
       <item value="行为" />
