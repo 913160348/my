@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="默认" />
       <item value="complain" />
       <item value="Complain" />
       <item value="Temporary" />
@@ -50,12 +51,11 @@
       <item value="devil" />
       <item value="转发" />
       <item value="becomeMy" />
-      <item value="变成" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
