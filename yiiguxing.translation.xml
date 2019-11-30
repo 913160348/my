@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="头" />
+      <item value="servername" />
+      <item value="域名" />
       <item value="提醒" />
       <item value="参数" />
       <item value="默认" />
@@ -48,14 +51,11 @@
       <item value="生成图片" />
       <item value="使用" />
       <item value="昵称" />
-      <item value="Become" />
-      <item value="变成我的" />
-      <item value="devil" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
