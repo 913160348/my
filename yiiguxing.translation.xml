@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="agent" />
       <item value="exchange" />
       <item value="交换" />
       <item value="switch" />
@@ -50,7 +51,6 @@
       <item value="position" />
       <item value="位置" />
       <item value="The bold style constant" />
-      <item value="The plain style constant." />
     </histories>
     <option name="languageScores">
       <map>
