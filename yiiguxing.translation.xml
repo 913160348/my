@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="组装" />
+      <item value="assemblyInfo" />
+      <item value="Assembly" />
+      <item value="组装数据" />
       <item value="source" />
       <item value="salesman" />
       <item value="guarantor" />
@@ -47,15 +51,11 @@
       <item value="改变形状" />
       <item value="改变" />
       <item value="图片" />
-      <item value="调整大小" />
-      <item value="resize" />
-      <item value="温度" />
-      <item value="气温" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
