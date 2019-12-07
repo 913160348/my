@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source" />
+      <item value="salesman" />
+      <item value="guarantor" />
       <item value="description" />
       <item value="类型" />
       <item value="agent" />
@@ -48,9 +51,6 @@
       <item value="resize" />
       <item value="温度" />
       <item value="气温" />
-      <item value="日期" />
-      <item value="location" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
