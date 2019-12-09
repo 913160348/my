@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="empno" />
+      <item value="emp" />
       <item value="relation" />
       <item value="关系" />
       <item value="search" />
@@ -49,8 +51,6 @@
       <item value="联系人" />
       <item value="地点" />
       <item value="活动" />
-      <item value="cread" />
-      <item value="DARK_GRAY" />
     </histories>
     <option name="languageScores">
       <map>
