@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pocess" />
       <item value="当前" />
       <item value="empno" />
       <item value="emp" />
@@ -50,11 +51,10 @@
       <item value="people" />
       <item value="Contact" />
       <item value="联系人" />
-      <item value="地点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
+        <entry key="CHINESE" value="86" />
         <entry key="ENGLISH" value="86" />
         <entry key="LATIN" value="1" />
       </map>
