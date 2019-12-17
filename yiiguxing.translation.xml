@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specify" />
+      <item value="指定" />
       <item value="错误" />
       <item value="Export" />
       <item value="导出" />
@@ -49,12 +51,10 @@
       <item value="标识" />
       <item value="emial" />
       <item value="qrcode" />
-      <item value="创建" />
-      <item value="temp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
+        <entry key="CHINESE" value="90" />
         <entry key="ENGLISH" value="90" />
         <entry key="LATIN" value="1" />
       </map>
