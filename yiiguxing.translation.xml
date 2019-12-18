@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relation" />
+      <item value="关系" />
       <item value="继承" />
       <item value="execution" />
       <item value="执行" />
@@ -21,8 +23,6 @@
       <item value="当前" />
       <item value="empno" />
       <item value="emp" />
-      <item value="relation" />
-      <item value="关系" />
       <item value="search" />
       <item value="排序" />
       <item value="sort" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="94" />
         <entry key="ENGLISH" value="94" />
         <entry key="LATIN" value="1" />
       </map>
