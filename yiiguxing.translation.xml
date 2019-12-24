@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标志" />
       <item value="回复" />
       <item value="process" />
       <item value="处理" />
@@ -50,7 +51,6 @@
       <item value="website" />
       <item value="头" />
       <item value="servername" />
-      <item value="域名" />
     </histories>
     <option name="languageScores">
       <map>
