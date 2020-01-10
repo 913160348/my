@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Affected" />
-      <item value="Column 'baseid' in where clause is ambiguous" />
-      <item value="公司" />
-      <item value="Insurance" />
-      <item value="Insurancename" />
-      <item value="Expected one result (or null) to be returned by selectOne(), but found: 2" />
-      <item value="注册" />
-      <item value="Field nService in com.example.demo.controller.test required a bean of type 'com.example.demo.service.NService' that could not be found." />
-      <item value="Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consume" />
-      <item value="Action" />
-      <item value="Field express in com.abdms.controller.test required a single bean, but 2 were found:" />
-      <item value="Description" />
-      <item value="APPLICATION FAILED TO START" />
-      <item value="protected" />
-      <item value="please try again in 15 minutes." />
-      <item value="detecting and recording URL" />
-      <item value="Double cannot be cast to java.lang.Integer" />
-      <item value="Method fun1 should have no parameters" />
-      <item value="月" />
-      <item value="wrong number of arguments" />
-      <item value="argument type mismatch" />
-      <item value="IllegalArgumentException: object is not an instance of declaring class" />
-      <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near 'key ='demo'' at line 3" />
-      <item value="syncall" />
-      <item value="权限校验" />
-      <item value="权限" />
-      <item value="Invalid bound statement (not found):" />
-      <item value="The driver has not received any packets from the server. " />
-      <item value="ignoring input and appending output to" />
-      <item value="nohup: ignoring input and appending output to ‘nohup.out’" />
-      <item value="Error occurred during initialization of VM " />
-      <item value="account." />
-      <item value="account.admin" />
-      <item value=" Permission denied" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near" />
-      <item value="分类" />
-      <item value="下拉框" />
-      <item value="下拉" />
-      <item value="reason" />
-      <item value="原因" />
-      <item value="market" />
-      <item value="上市时间" />
-      <item value="Could not autowire.No beans of &quot;XXX&quot; type found" />
-      <item value="The used SELECT statements have a different number of columns" />
-      <item value=" Every derived table must have its own alias" />
-      <item value="Every derived table must have its own alias" />
-      <item value="Status" />
-      <item value="Invalid use of group function" />
-      <item value="nohup: ignoring input and appending output to ‘nohup.out’ " />
-      <item value="1130-Host 61.158.149.79 is not allowed to connect to this mysql server" />
+      <item value="server" />
+      <item value="service" />
+      <item value="标志" />
+      <item value="回复" />
+      <item value="process" />
+      <item value="处理" />
+      <item value="valid" />
+      <item value="access" />
+      <item value="validat" />
+      <item value="上传" />
+      <item value="upload" />
+      <item value="字段" />
+      <item value="relation" />
+      <item value="关系" />
+      <item value="继承" />
+      <item value="execution" />
+      <item value="执行" />
+      <item value="inherit" />
+      <item value="pocess" />
+      <item value="Specify" />
+      <item value="指定" />
+      <item value="错误" />
+      <item value="Export" />
+      <item value="导出" />
+      <item value="first" />
+      <item value="function" />
+      <item value="sign" />
+      <item value="fun" />
+      <item value="方法" />
+      <item value="访问" />
+      <item value="当前" />
+      <item value="empno" />
+      <item value="emp" />
+      <item value="search" />
+      <item value="排序" />
+      <item value="sort" />
+      <item value="组装" />
+      <item value="assemblyInfo" />
+      <item value="Assembly" />
+      <item value="组装数据" />
+      <item value="source" />
+      <item value="salesman" />
+      <item value="guarantor" />
+      <item value="description" />
+      <item value="类型" />
+      <item value="agent" />
+      <item value="exchange" />
+      <item value="交换" />
+      <item value="switch" />
+      <item value="website" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="98" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
