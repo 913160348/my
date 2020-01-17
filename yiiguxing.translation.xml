@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minute" />
+      <item value="分钟" />
       <item value="函数" />
       <item value="ha" />
       <item value="方法" />
@@ -49,12 +51,10 @@
       <item value="salesman" />
       <item value="guarantor" />
       <item value="description" />
-      <item value="类型" />
-      <item value="agent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
+        <entry key="CHINESE" value="101" />
         <entry key="ENGLISH" value="101" />
         <entry key="LATIN" value="1" />
       </map>
