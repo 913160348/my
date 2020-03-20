@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用" />
       <item value="插入" />
       <item value="更换" />
       <item value="minute" />
@@ -50,7 +51,6 @@
       <item value="Assembly" />
       <item value="组装数据" />
       <item value="source" />
-      <item value="salesman" />
     </histories>
     <option name="languageScores">
       <map>
