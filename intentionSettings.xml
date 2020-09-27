@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Imports/Add On Demand Static Import" />
+    <ignoreAction name="Java/Declaration/Make method default" />
   </component>
 </application>
