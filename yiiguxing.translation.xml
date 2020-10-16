@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="learn project code" />
+      <item value="AbtComAbdFamilyDao extends BaseMapper&lt;AbtComAbdFamily&gt; {" />
+      <item value="String" />
+      <item value="status" />
       <item value="Abt Com Abd Family" />
       <item value="刷新" />
       <item value="生成" />
@@ -47,20 +51,21 @@
       <item value="empno" />
       <item value="emp" />
       <item value="search" />
-      <item value="排序" />
-      <item value="sort" />
-      <item value="组装" />
-      <item value="assemblyInfo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="104" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20201016000590895" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="fanyi.baidu" />
   </component>
