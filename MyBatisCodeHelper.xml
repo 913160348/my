@@ -2,7 +2,11 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="convertByteOrShortToInt" value="true" />
         <option name="iconName" value="arrow2" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="mybatisGeneratorMapperSuffix" value="Dao" />
+        <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="userMacSet">
           <set>
             <option value="0000_0000_01" />
