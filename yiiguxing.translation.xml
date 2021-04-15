@@ -60,13 +60,4 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20201016000590895" />
-      </app-key>
-    </option>
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
-  </component>
 </application>
