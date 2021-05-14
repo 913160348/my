@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="455" />
     <histories>
       <item value="learn project code" />
       <item value="AbtComAbdFamilyDao extends BaseMapper&lt;AbtComAbdFamily&gt; {" />
