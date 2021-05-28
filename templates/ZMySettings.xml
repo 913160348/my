@@ -1,5 +1,5 @@
-<templateSet group="MySettings">
-  <template name="a" value="**&#10; * &#10; *&#10;$params$ &#10; * @return $returns$ &#10; * @author 王名渤&#10; * @date $date$&#10; */" description="方法注释" toReformat="true" toShortenFQNames="true">
+<templateSet group="ZMySettings">
+  <template name="a" value="**&#10; * 方法注释&#10; *&#10;$params$ &#10; * @return $returns$ &#10; * @author 王名渤&#10; * @date $date$&#10; */" description="方法注释" toReformat="true" toShortenFQNames="true">
     <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n':'')};  return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
     <variable name="returns" expression="groovyScript(&quot;def result='';  def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split('&lt;').toList(); for(i = 0; i &lt; params.size(); i++) {if(i!=0){result+='&lt;';};  def p1=params[i].split(',').toList();  for(i2 = 0; i2 &lt; p1.size(); i2++)  { def p2=p1[i2].split('\\\\.').toList();  result+=p2[p2.size()-1]; if(i2!=p1.size()-1){result+=','}  } ; };  return result&quot;, methodReturnType())" defaultValue="" alwaysStopAt="false" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
